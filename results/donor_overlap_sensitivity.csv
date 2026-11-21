@@ -1,0 +1,2 @@
+"dataset","method","nodes","edges","density","components","label_degree","label_neighbours","seconds","excluded","n"
+"Christy_without_shared_domains","MIIC",26,67,0.206153846153846,1,4,"IMGT_109;IMGT_113;IMGT_30;IMGT_58",NA,60,4666
